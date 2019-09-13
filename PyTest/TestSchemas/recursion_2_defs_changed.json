@@ -1,0 +1,32 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+      
+    "def1":{
+      "clerk" : {
+        "type" : "object",
+        "properties" : {
+          "rank" : {"type": "string"},
+          "daten": {"$ref" : "#/definitions/person"}
+        }
+      }
+    },
+	"definitions" : {
+		"person" : {
+			"type" : "object",
+			"properties" : {
+				"firstName" : {"type" : "string"},
+				"address" : {
+					"type" : "object",
+					"properties" : { 
+						"hasShippingAddress" : {"type" : "boolean"},
+						"shippingAddress" : {"$ref" : "#/definitions/person"}
+					}
+				}
+			}
+		}
+	},
+	"type" : "object",
+	"properties" : {
+        "clerk" : {"$ref" : "#/def1/clerk"}
+	}			
+}

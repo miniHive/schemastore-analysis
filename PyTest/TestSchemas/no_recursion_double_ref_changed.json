@@ -1,0 +1,31 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+      
+	"d" : {
+		"person" : {
+			"type" : "object",
+			"properties" : {
+				"firstName" : {"type" : "string"},
+				"child" : {
+					"type" : "object",
+					"properties" : {
+                      "firstName" : {"type" : "string"}
+                    }
+				}
+			}
+		}
+	},
+    "def1" : {
+      "child": {
+        "type" : "object",
+		"properties" : {
+        	 "name" : {"$ref" : "#/d/person"}
+        }
+      }
+    },
+	"type" : "object",
+	"properties" : {
+		"mother" : {"$ref" : "#/d/person"},
+        "child"  : {"$ref" : "#/def1/child"}
+	}			
+}

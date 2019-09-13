@@ -1,0 +1,41 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+    
+	"def":{
+	  "address" : {
+	    "type" : "object",
+		"properties" : {
+		  "street" : {"type" : "string" },
+		  "shippingAddress" : {"$ref" : "#/definition/shipping_address"}
+		}
+      }
+    },
+  	"definition" : {
+      "person" : {
+        "type" : "object",
+        "properties" : {
+          "name" : {"type" : "string"},
+          "addresse" : {"$ref" : "#/def/address"},
+          "child" : {"$ref" : "#/definition/person"}
+        }
+      },	  
+  	  "shipping_address" :{
+        "type" : "object",
+        "properties": {
+        	"AnotherStreet" : {"type" : "string"}
+        }
+      },
+	  "parent" : {
+      "type" : "object",
+        "properties" : {
+          "name" : {"type" : "string"},
+          "child" : {"$ref" : "#/definition/person"}
+		  }
+		}
+    },
+  	"type" : "object",
+    "properties":{
+      "child" : {"$ref" : "#/definition/parent"}
+    }  
+  
+}

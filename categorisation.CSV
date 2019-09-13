@@ -1,0 +1,170 @@
+name,category
+.angular-cli.json,conf
+Ansible,meta
+apple-app-site-association,app
+appsscript.json,data
+appsettings.json,conf
+appveyor.yml,conf
+Avro Avsc,app
+Azure IoT Edge deployment,conf
+Foxx Manifest,data
+.asmdef,conf
+babelrc.json,conf
+batect.yml,conf
+.bootstraprc,conf
+bower.json,conf
+.bowerrc,conf
+bozr.suite.json,app
+Bukkit plugin.yml,app
+Buildkite,conf
+bundleconfig.json,conf
+BungeeCord plugin.yml,app
+circleciconfig.json,conf
+.cirrus.yml,conf
+.clasp.json,data
+compilerconfig.json,conf
+commands.json,conf
+Chrome Extension,data
+chutzpah.json,meta
+contentmanifest.json,data
+AWS CloudFormation,conf
+AWS CloudFormation Serverless Application Model (SAM),conf
+coffeelint.json,meta
+composer.json,conf
+component.json,conf
+conf.json,conf
+contribute.json,data
+cypress.json,conf
+.creatomic,conf
+.csscomb.json,conf
+.csslintrc,conf
+datalogic-scan2deploy-android,data
+datalogic-scan2deploy-ce,data
+debugsettings.json,conf
+docfx.json,conf
+Dolittle Artifacts,conf
+Dolittle Bounded Context Configuration,conf
+Dolittle Event Horizons Configuration,conf
+Dolittle Resources Configuration,conf
+Dolittle Server Configuration,conf
+Dolittle Tenants Configuration,conf
+Dolittle Tenant Map Configuration,conf
+Dolittle Topology,conf
+dotnetcli.host.json,conf
+dss-2.0.0.json,deleted
+epr-manifest.json,conf
+.eslintrc,conf
+function.json,data
+geojson.json,data
+gitlab-ci,conf
+global.json,conf
+Grunt copy task,conf
+Grunt clean task,conf
+Grunt cssmin task,conf
+Grunt JSHint task,conf
+Grunt Watch task,conf
+Grunt base task,conf
+haxelib.json,conf
+host.json,data
+host-meta.json,data
+.htmlhintrc,conf
+imageoptimizer.json,conf
+.jsbeautifyrc,conf
+.jsbeautifyrc-nested,conf
+.jscsrc,conf
+.jshintrc,conf
+.jsinspectrc,conf
+JSON-API,app
+JSON Document Transform,meta
+JSON Feed,app
+*.jsonld,meta
+JSONPatch,meta
+jsconfig.json,conf
+launchsettings.json,conf
+libman.json,conf
+lsdlschema.json,meta
+Microsoft Band Web Tile,data
+mimetypes.json,conf
+.modernizrrc,conf
+mycode.json,data
+news in JSON,meta
+nodemon.json,conf
+.npmpackagejsonlintrc,conf
+nuget-project.json,conf
+nswag.json,conf
+ocelot.json,conf
+omnisharp.json,conf
+openapi.json,app
+openfin.json,conf
+package.json,conf
+package.manifest,data
+pattern.json,data
+PocketMine plugin.yml,app
+.phraseapp.yml,conf
+prettierrc.json,conf
+prisma.yml,data
+project.json,conf
+project-1.0.0-beta3.json,conf
+project-1.0.0-beta4.json,conf
+project-1.0.0-beta5.json,conf
+project-1.0.0-beta6.json,conf
+project-1.0.0-beta8.json,conf
+project-1.0.0-rc1.json,conf
+project-1.0.0-rc2.json,conf
+proxies.json,app
+pyrseas-0.8.json,data
+*.resjson,data
+JSON Resume,meta
+Renovate,conf
+sarif-1.0.0.json,meta
+sarif-2.0.0.json,meta
+2.0.0-csd.2.beta.2018-10-10,deleted
+Schema Catalog,data
+schema.org - Action,data
+schema.org - ContactPoint,data
+schema.org - Place,data
+schema.org - Thing,data
+settings.job,conf
+skyuxconfig.json,deleted
+Solidarity,conf
+Source Maps v3,data
+.sprite files,conf
+StyleCop Analyzers Configuration,conf
+.stylelintrc,conf
+Swagger API 2.0,app
+template.json,data
+templatsources.json,data
+tmLanguage,meta
+.travis.yml,conf
+tsconfig.json,conf
+tsd.json,conf
+tsdrc.json,conf
+tslint.json,conf
+typewiz.json,conf
+typings.json,conf
+typingsrc.json,conf
+up.json,conf
+ui5-manifest,data
+vega.json,meta
+vega-lite.json,meta
+version.json,data
+vsls.json,conf
+vs-2017.3.host.json,data
+vs-nesting.json,conf
+.vsext,data
+VSIX CLI publishing,data
+WebExtensions,data
+Web Manifest,data
+webjobs-list.json,data
+webjobpublishsettings.json,conf
+JSON-stat 2.0,meta
+KSP-CKAN 1.25,data
+JSON Schema Draft 4,meta
+xunit.runner.json,conf
+.cryproj engine-5.2,data
+.cryproj engine-5.3,data
+.cryproj engine-5.4,data
+.cryproj engine-5.5,data
+.cryproj engine-dev,data
+.cryproj (generic),data
+Source Maps v3,data

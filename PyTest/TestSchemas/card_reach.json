@@ -1,0 +1,11 @@
+{
+  "$id": "https://example.com/address.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "description": "A representation of a person, company, organization, or place",
+  "type": "object",
+  "properties": {
+    "ext": { "type" : "string" },
+    "adr": { "type" : "string" },
+    "geo": { "type" : "string" }
+  }
+}

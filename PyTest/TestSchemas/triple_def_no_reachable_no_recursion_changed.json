@@ -1,0 +1,68 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+    
+  	"definition" : {
+  	  "shipping_address" :{
+        "type" : "object",
+        "properties": {
+        	"AnotherStreet" : {"type" : "string"}
+        }
+      },
+	  "address" : {
+		"type" : "object",
+		"properties" : {
+			"street" : {"type" : "string" },
+			"shippingAddress" : {"$ref" : "#/definition/shipping_address"}
+		}
+	   },
+      "person" : {
+        "type" : "object",
+        "properties" : {
+                  "ansible_truth": {
+            "oneOf": [
+                {
+                    "type": "boolean"
+                },
+                {
+                    "enum": [
+                        0,
+                        1
+                    ],
+                    "type": "integer"
+                },
+                {
+                    "enum": [
+                        "yes",
+                        "no",
+                        "Yes",
+                        "No",
+                        "YES",
+                        "NO",
+                        "on",
+                        "off",
+                        "On",
+                        "Off",
+                        "ON",
+                        "OFF",
+                        "1",
+                        "0",
+                        "true",
+                        "false",
+                        "True",
+                        "FalseTRUE",
+                        "FALSE"
+                    ],
+                    "type": "string"
+                }
+            ]
+        },
+          "address" : {"$ref" : "#/definition/shipping_address"}
+        }
+      }
+    },
+  	"type" : "object",
+    "properties":{
+      "person" : {"$ref" : "#/definition/person"}
+    }  
+  
+}

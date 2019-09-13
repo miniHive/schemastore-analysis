@@ -1,0 +1,30 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+    "d" : {
+		"address" : {
+		  "type" : "object",
+		  "properties" : {
+			"street" : {"type" : "string" },
+			"shippingAddress" : {"$ref" : "#/d/shipping_address"}
+		  }
+		},
+		"shipping_address" :{
+		  "type" : "object",
+		  "properties": {
+			"AnotherStreet" : {"type" : "string"}
+		  }
+		},
+		"person" : {
+			"type" : "object",
+			"properties" : {
+			  "name" : {"type" : "string"},
+			  "address" : {"$ref" : "#/d/address"}
+			}
+		}
+	},
+  	"type" : "object",
+    "properties":{
+      "address" : {"$ref" : "#/d/person"}
+    }  
+  
+}

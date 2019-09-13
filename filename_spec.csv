@@ -1,0 +1,171 @@
+name,filename
+.angular-cli.json,Angular_CLI_Configuration.json
+Ansible,Ansible_2.5.json
+apple-app-site-association,Apple_Universal_Link__App_Site_Association.json
+appsscript.json,JSON_schema_for_Google_Apps_Script_manifest_files.json
+appsettings.json,JSON_schema_ASP.NET_Core's_appsettings.json_file.json
+appveyor.yml,JSON_schema_for_AppVeyor_CI_configuration_files.json
+Avro Avsc,Avro_Schema_Definition.json
+Azure IoT Edge deployment,JSON_schema_for_Azure_IoT_Edge_Deployment_version_1.0.json
+Foxx Manifest,Schema_for_ArangoDB_Foxx_service_manifests.json
+.asmdef,Unity_Assembly_Definition.json
+babelrc.json,JSON_schema_for_Babel_6+_configuration_files.json
+batect.yml,JSON_schema_for_batect_configuration_files.json
+.bootstraprc,JSON_schema_for_Webpack's_bootstrap-loader_configuration_file.json
+bower.json,JSON_schema_for_Bower_configuration_files.json
+.bowerrc,JSON_schema_for_.bowerrc_files.json
+bozr.suite.json,Bozr_test_suite_schema_definition.json
+Bukkit plugin.yml,JSON_schema_for_Bukkit_Plugin_YAML.json
+Buildkite,JSON_schema_for_Buildkite_pipeline_configuration_files.json
+bundleconfig.json,Schema_for_bundleconfig.json_files.json
+BungeeCord plugin.yml,JSON_schema_for_BungeeCord_Plugin_YAML.json
+circleciconfig.json,JSON_schema_for_CircleCI_configuration_files.json
+.cirrus.yml,JSON_schema_for_Cirrus_CI_configuration_files.json
+.clasp.json,JSON_schema_for_Google_Apps_Script_project_files.json
+compilerconfig.json,Schema_for_bundleconfig.json_files_1.json
+commands.json,Schema_for_bundleconfig.json_files_2.json
+Chrome Extension,JSON_schema_for_Google_Chrome_extension_manifest_files.json
+chutzpah.json,JSON_schema_for_Chutzpah_test_runner_settings_files.json
+contentmanifest.json,JSON_schema_for_Visual_Studio_manifest_extensions.json
+AWS CloudFormation,githubuserc.json
+AWS CloudFormation Serverless Application Model (SAM),githubuserc_1.json
+coffeelint.json,JSON_schema_for_coffeelint.json_files.json
+composer.json,schemastore.json
+component.json,JSON_schema_for_component.json_files.json
+Source Maps v3,sourcemap-v3.json
+conf.json,JSON_schema_for_DNX_configuration_files.json
+contribute.json,Mozilla's_contribute.json.json
+cypress.json,JSON_schema_for_https__cypress.io_test_runner_cypress.json_file._Details_at_https__on.cypress.io_configuration.json
+.creatomic,JSON_schema_for_Creatomic_configuration_file.json
+.csscomb.json,JSON_schema_for_CSS_Comb_configuration_files.json
+.csslintrc,JSON_schema_for_CSS_Lint_configuration_files.json
+datalogic-scan2deploy-android,Android-Scan2Deploy_Schema.json
+datalogic-scan2deploy-ce,CE-Scan2Deploy_Schema.json
+debugsettings.json,JSON_schema_for_the_ASP.NET_DebugSettings.json_files..json
+docfx.json,DocFx_configuraton_file.json
+Dolittle Artifacts,Artifacts_Configuration.json
+Dolittle Bounded Context Configuration,Bounded_Context_Configuration.json
+Dolittle Event Horizons Configuration,Event_Horizons_Configuration.json
+Dolittle Resources Configuration,Resource_Configuration.json
+Dolittle Server Configuration,Server_Configuration.json
+Dolittle Tenants Configuration,Tenants_Configuration.json
+Dolittle Tenant Map Configuration,Resource_Configuration_1.json
+Dolittle Topology,Topology_Configuration.json
+dotnetcli.host.json,JSON_schema_for_.NET_CLI_template_host_files.json
+dss-2.0.0.json,None
+epr-manifest.json,JSON_schema_for_Entry_Point_Regulation_manifest_files.json
+.eslintrc,JSON_schema_for_ESLint_configuration_files.json
+function.json,JSON_schema_for_Azure_Functions_function.json_files.json
+geojson.json,GeoJSON_Object.json
+gitlab-ci,Gitlab_CI_configuration.json
+global.json,JSON_schema_for_the_ASP.NET_global_configuration_files.json
+Grunt copy task,JSON_schema_for_the_Grunt_clean_task.json
+Grunt clean task,JSON_schema_for_the_Grunt_clean_task_1.json
+Grunt cssmin task,JSON_schema_for_the_Grunt_cssmin_task.json
+Grunt JSHint task,JSON_schema_for_the_Grunt_JSHint_task.json
+Grunt Watch task,JSON_schema_for_the_Grunt_Watch_task.json
+Grunt base task,JSON_schema_for_any_Grunt_task.json
+haxelib.json,A_haxelib_project.json
+host.json,JSON_schema_for_Azure_Functions_host.json_files.json
+host-meta.json,JSON_schema_for_host-meta_files.json
+.htmlhintrc,JSON_schema_for_HTMLHint_configuration_files.json
+imageoptimizer.json,Schema_for_imageoptimizer.json_files.json
+.jsbeautifyrc,JSON_schema_for_beautifyrc.json
+.jsbeautifyrc-nested,JSON_schema_for_beautifyrc_1.json
+.jscsrc,JSON_schema_for_JSCS_configuration_files.json
+.jshintrc,JSON_schema_for_JSHint_configuration_files.json
+.jsinspectrc,JSON_schema_for_JSInspect_configuration_files.json
+JSON-API,JSONAPI_Schema.json
+JSON Document Transform,JSON_schema_for_JSON_Document_Transforms.json
+JSON Feed,JSON_schema_for_the_JSON_Feed_format.json
+*.jsonld,Schema_for_JSON-LD.json
+JSONPatch,JSON_schema_for_JSONPatch_files.json
+jsconfig.json,JSON_schema_for_the_JavaScript_configuration_file.json
+launchsettings.json,JSON_schema_for_the_ASP.NET_LaunchSettings.json_files..json
+libman.json,JSON_schema_for_client-side_library_config_files.json
+lsdlschema.json,LSDL_Schema.json
+Microsoft Band Web Tile,JSON_schema_for_Microsoft_Band_manifests.json
+mimetypes.json,JSON_Schema_for_mime_type_collections.json
+.modernizrrc,JSON_Schema_for_Webpack's_modernizr-loader_configuration_file.json
+mycode.json,JSON_schema_for_mycode.js_files.json
+news in JSON,IPTC_ninjs_-_News_in_JSON_-_version_1.1_(approved__2014-03-12)___document_revision_of_2017-09-05_syntax_error_corrected.json
+nodemon.json,JSON_Schema_for_Nodemon_Config.json
+.npmpackagejsonlintrc,JSON_schema_for_npm-package-json-lint_configuration_files.json
+nuget-project.json,JSON_schema_for_NuGet_project.json_files.json
+nswag.json,schemastore_1.json
+ocelot.json,JSON_Schema_for_Ocelot.json.json
+omnisharp.json,schemastore_2.json
+openapi.json,A_JSON_Schema_for_OpenAPI_3.0..json
+openfin.json,JSON_schema_for_OpenFin_application_configuration_files.json
+package.json,JSON_schema_for_NPM_package.json_files.json
+package.manifest,A_schema_for_Umbraco's_package.manifest_files..json
+pattern.json,pattern_manifest.json
+PocketMine plugin.yml,schemastore_3.json
+.phraseapp.yml,JSON_schema_for_PhraseApp_configuration_files.json
+prettierrc.json,Schema_for_.prettierrc.json
+prisma.yml,JSON_schema_for_Prisma_prisma.yml_files.json
+project.json,JSON_schema_for_.NET_Core_project.json_files.json
+project-1.0.0-beta3.json,JSON_schema_for_ASP.NET_project.json_files.json
+project-1.0.0-beta4.json,JSON_schema_for_ASP.NET_project.json_files_1.json
+project-1.0.0-beta5.json,JSON_schema_for_ASP.NET_project.json_files_2.json
+project-1.0.0-beta6.json,JSON_schema_for_ASP.NET_project.json_files_3.json
+project-1.0.0-beta8.json,JSON_schema_for_DNX_project.json_files.json
+project-1.0.0-rc1.json,JSON_schema_for_DNX_project.json_files_1.json
+project-1.0.0-rc2.json,JSON_schema_for_.NET_Core_project.json_files_1.json
+proxies.json,JSON_schema_for_Azure_Functions_Proxies_proxies.json_files.json
+pyrseas-0.8.json,JSON_schema_for_Pyrseas_yaml_files.json
+*.resjson,JSON_schema_for_Windows_resource_files_(.resjson).json
+JSON Resume,Resume_Schema.json
+Renovate,JSON_schema_for_Renovate_config_files_(https__renovatebot.com_).json
+sarif-1.0.0.json,Static_Analysis_Results_Format_(SARIF)_Version_1.0.0_JSON_Schema.json
+sarif-2.0.0.json,Static_Analysis_Results_Format_(SARIF)_Version_2.0.0_JSON_Schema.json
+2.0.0-csd.2.beta.2018-10-10,None
+Schema Catalog,JSON_schema_for_SchemaStore.org_catalog_files.json
+schema.org - Action,JSON_schema_for_schema.org___Action.json
+schema.org - ContactPoint,JSON_schema_for_schema.org___ContactPoint.json
+schema.org - Place,JSON_schema_for_schema.org___Place.json
+schema.org - Thing,JSON_schema_for_schema.org___Thing.json
+settings.job,JSON_schema_for_Azure_Webjob_settings.job_files.json
+skyuxconfig.json,None
+Solidarity,Solidarity.json
+Source Maps v3,None
+.sprite files,Schema_for_image_sprite_generation_files.json
+StyleCop Analyzers Configuration,StyleCop_Analyzers_Configuration.json
+.stylelintrc,JSON_schema_for_the_Stylelint_configuration_files.json
+Swagger API 2.0,A_JSON_Schema_for_Swagger_2.0_API..json
+template.json,JSON_schema_.NET_template_files.json
+templatsources.json,JSON_schema_for_SideWaffle_template_sources.json
+tmLanguage,tmLanguage.json
+.travis.yml,JSON_schema_for_Travis_CI_configuration_files.json
+tsconfig.json,JSON_schema_for_the_TypeScript_compiler's_configuration_file.json
+tsd.json,JSON_schema_for_DefinitelyTyped_TypeScript_definitions_manager_(TSD).json
+tsdrc.json,JSON_schema_for_.tsdrc_files.json
+tslint.json,JSON_schema_for_the_TSLint_configuration_files..json
+typewiz.json,Typewiz_configuration_schema.json
+typings.json,JSON_schema_for_Typings_TypeScript_definitions_manager.json
+typingsrc.json,JSON_schema_for_.typingsrc_files.json
+up.json,JSON_schema_for_Apex_Up_configuration_files.json
+ui5-manifest,JSON_schema_for_UI5_manifest.json_project_declaration.json
+vega.json,Vega_3.0_Visualization_Specification_Language.json
+vega-lite.json,schemastore_4.json
+version.json,Nerdbank.GitVersioning_version.json_schema.json
+vsls.json,JSON_schema_for_Visual_Studio_Live_Share_config_files.json
+vs-2017.3.host.json,JSON_schema_for_Visual_Studio_template_host_files.json
+vs-nesting.json,JSON_schema_for_Visual_Studio's_file_nesting_feature.json
+.vsext,JSON_schema_for_Visual_Studio_extension_pack_manifests.json
+VSIX CLI publishing,schemastore_5.json
+WebExtensions,JSON_schema_for_WebExtensions_manifest_files.json
+Web Manifest,JSON_schema_for_Web_Application_manifest_files.json
+webjobs-list.json,JSON_schema_for_Azure_Webjobs_collection_files.json
+webjobpublishsettings.json,JSON_schema_for_Azure_Webjobs_configuration_files.json
+JSON-stat 2.0,JSON-stat_2.0_Schema.json
+KSP-CKAN 1.25,CKAN_JSON_Schema.json
+JSON Schema Draft 4,Core_schema_meta-schema.json
+xunit.runner.json,xUnit.net_Runner_Configuration.json
+.cryproj engine-5.2,CryProj_schema.json
+.cryproj engine-5.3,CryProj_schema_1.json
+.cryproj engine-5.4,CryProj_schema_2.json
+.cryproj engine-5.5,CryProj_schema_3.json
+.cryproj engine-dev,CryProj_schema_4.json
+.cryproj (generic),CryProj_schema_5.json
+Source Maps v3,sourcemap-v3.json
