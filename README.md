@@ -14,7 +14,9 @@ The project is tested with Python version __Python 3.7.2__. You'll also need to 
 * [MatPlotLib](https://matplotlib.org/) - A package to create plots with the results of the analysis 
 * [Pandas](https://pandas.pydata.org/) - A package used to import and export MS Excel sheets 
 * [Openpyxl](https://openpyxl.readthedocs.io/en/stable/) - A package used by Pandas to export data to MS Excel format
-* [jsonschema](https://github.com/Julian/jsonschema.git) - A package which implements a JSON Schema Validator, that is used to validate the Schemas themselves
+* [jsonschema](https://github.com/Julian/jsonschema.git) - A package which implements a JSON Schema Validator, that is used to validate
+* [xlrd](https://pypi.org/project/xlrd/) - A packacke for data extraction from Excel documents
+the Schemas themselves
 
 The following table shows the versions of the packages, which were used to run the project.
 
